@@ -30,6 +30,6 @@ public class NumberOfDays {
 			}
 			if (flag == 1) break;
 		}
-
+		ns.close();
 	}
 }
